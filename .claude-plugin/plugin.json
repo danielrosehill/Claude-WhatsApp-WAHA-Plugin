@@ -1,0 +1,9 @@
+{
+  "name": "whatsapp-waha",
+  "version": "1.0.0",
+  "description": "Personal WhatsApp via a self-hosted WAHA link: send text and photos, first-contact a new number and save them, create and manage groups, archive or leave chats, health-check the link. Account details live in a per-user profile, so one install serves several people's accounts.",
+  "author": {"name": "Daniel Rosehill", "url": "https://github.com/danielrosehill"},
+  "repository": "https://github.com/danielrosehill/Claude-WhatsApp-WAHA-Plugin",
+  "license": "MIT",
+  "keywords": ["whatsapp", "waha", "messaging", "groups", "contacts", "mcp"]
+}
